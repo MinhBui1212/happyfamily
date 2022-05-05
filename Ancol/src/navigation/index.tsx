@@ -5,6 +5,7 @@ import { NavigationContainer } from "@react-navigation/native";
 const Stack = createNativeStackNavigator()
 
 export function RootNavigator() {
+    // comment test branch
     return (
         <NavigationContainer>
             <Stack.Navigator>
